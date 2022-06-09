@@ -1,0 +1,11 @@
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\bin\x64\Debug\otelOtomasyon.exe.config
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\bin\x64\Debug\otelOtomasyon.exe
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\bin\x64\Debug\otelOtomasyon.pdb
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.Form1.resources
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.Form2.resources
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.Properties.Resources.resources
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.csproj.GenerateResource.cache
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.exe
+C:\Users\sikar\source\repos\otelOtomasyon\otelOtomasyon\obj\x64\Debug\otelOtomasyon.pdb
